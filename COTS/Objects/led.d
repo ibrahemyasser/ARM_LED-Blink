@@ -1,0 +1,13 @@
+.\objects\led.o: HAL\LED\Src\Led.c
+.\objects\led.o: .\APP\../LIBRARIES/common/Std_Types.h
+.\objects\led.o: .\APP\../LIBRARIES/common/Platform_Types.h
+.\objects\led.o: .\APP\../LIBRARIES/common/Compiler.h
+.\objects\led.o: .\APP\../HAL/LED/Inc/Led.h
+.\objects\led.o: .\APP\../MCAL/PORT/Inc/Port_Cfg.h
+.\objects\led.o: .\APP\../MCAL/DIO/Inc/Dio.h
+.\objects\led.o: .\APP\../MCAL/DIO/Inc/Dio_Types.h
+.\objects\led.o: .\APP\../LIBRARIES/common/Mcu_Hw.h
+.\objects\led.o: .\APP\../HAL/LED/Inc/Led_Lcfg.h
+.\objects\led.o: .\APP\../MCAL/INTERRUPT/Inc/IntCtrl.h
+.\objects\led.o: .\APP\../MCAL/INTERRUPT/Inc/IntCtrl_Cfg.h
+.\objects\led.o: .\APP\../MCAL/INTERRUPT/Inc/IntCtrl_Types.h

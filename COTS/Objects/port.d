@@ -1,0 +1,9 @@
+.\objects\port.o: MCAL\PORT\Src\Port.c
+.\objects\port.o: .\APP\../LIBRARIES/common/Std_Types.h
+.\objects\port.o: .\APP\../LIBRARIES/common/Platform_Types.h
+.\objects\port.o: .\APP\../LIBRARIES/common/Compiler.h
+.\objects\port.o: .\APP\../LIBRARIES/common/Mcu_Hw.h
+.\objects\port.o: .\APP\../MCAL/DIO/Inc/Dio.h
+.\objects\port.o: .\APP\../MCAL/DIO/Inc/Dio_Types.h
+.\objects\port.o: .\APP\../MCAL/PORT/Inc/Port_Cfg.h
+.\objects\port.o: .\APP\../LIBRARIES/common/Bit_Math.h
